@@ -9,7 +9,7 @@
 - Minimalist design focused on core mechanics
 
 ## Screenshots
-![Pink Pong Screenshot](your-screenshot-link-if-you-have-one)
+![Pink Pong Screenshot](screenshot.png)
 
 ## Technologies Used
 - [Lua](https://www.lua.org/)
