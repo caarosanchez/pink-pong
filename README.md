@@ -4,7 +4,7 @@
 
 ## Features
 - Classic Pong gameplay with a playful pink aesthetic
-- Two-player local mode
+- Player vs Computer mode (PVC)
 - Ball speed increases with each bounce
 - Minimalist design focused on core mechanics
 
@@ -22,7 +22,7 @@
    ```bash
    love .
 4. Player 1 uses W and S to move.
-5. Player 2 uses Up and Down arrow keys.
+5. The computer controls the right paddle automatically.
 
 ## Credits
 Developed by Carolina Sanchez as a part of a learning project during the CS50 course by Harvard University.
